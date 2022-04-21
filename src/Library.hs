@@ -45,5 +45,3 @@ experiencia hechicero | antiguedad hechicero > 1  = True
 
 grupoPreparado listaGrupo = length listaGrupo > 3
 
-subirDeGrado hechicero | hechicero grado > 0 = grado - 1
-    | otherwise = False
