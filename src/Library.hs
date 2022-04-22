@@ -3,11 +3,6 @@ import PdePreludat
 
 
 
---nobara = (1,"Kuguisaki",3)
---satoru = (15,"gojo",0)
---maki = (3,"zenin",4)
---yuji = (0,"Itadori",1)
-
 data Hechicero = Hechicero { 
     antiguedad :: Number,
     clan :: String,
