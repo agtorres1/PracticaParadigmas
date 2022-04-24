@@ -86,3 +86,5 @@ funcionMisteriosa2 g = g . length
 esNoVacio = (/=0).length
 
 multiplo nro = (==0) . rem nro
+
+ textos ((nombre,texto),(nombre,texto))= 
